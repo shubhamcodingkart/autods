@@ -34,21 +34,20 @@ jQuery(document).ready(function() {
               jQuery.jsdvPopup({text:'Invalid API URL!'});
             }
 
-            var str1 = obj.message;
+            var str1 = JSON.stringify(obj.message);
             var str2 = 'Successfully uploaded item';
             if(str1.indexOf(str2) != -1){
                   jQuery('#'+id+' i').removeClass('fa-circle-o-notch');
                   jQuery('#'+id+' i').removeClass('fa-spin');
                   jQuery('#'+id+' i').addClass('fa-check');
 
-                  jQuery.jsdvPopup({text:obj.message});
+                  jQuery.jsdvPopup({text:str1});
             }else{
               jQuery('#'+id+' i').removeClass('fa-circle-o-notch');
               jQuery('#'+id+' i').removeClass('fa-spin');
               jQuery('#'+id+' i').addClass('fa-close');
 
-              var obj = JSON.parse(response[1]);
-              jQuery.jsdvPopup({text:obj.message});
+              jQuery.jsdvPopup({text:str1});
             }
           }
         });
