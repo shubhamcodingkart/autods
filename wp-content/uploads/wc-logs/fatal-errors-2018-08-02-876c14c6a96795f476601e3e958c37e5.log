@@ -1,0 +1,2441 @@
+2018-08-02T04:57:40+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin.php(31): require_once('/var/www/html/w...')
+#5 /var/www/html/wp-admin/themes.php(10): require_once('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-08-02T04:57:40+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T04:57:42+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T04:57:45+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin.php(31): require_once('/var/www/html/w...')
+#5 /var/www/html/wp-admin/themes.php(10): require_once('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-08-02T04:57:47+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin.php(31): require_once('/var/www/html/w...')
+#5 /var/www/html/wp-admin/themes.php(10): require_once('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-08-02T04:58:00+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin.php(31): require_once('/var/www/html/w...')
+#5 /var/www/html/wp-admin/themes.php(10): require_once('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-08-02T04:58:05+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin.php(31): require_once('/var/www/html/w...')
+#5 /var/www/html/wp-admin/themes.php(10): require_once('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-08-02T04:58:07+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin.php(31): require_once('/var/www/html/w...')
+#5 /var/www/html/wp-admin/themes.php(10): require_once('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-08-02T04:58:09+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin.php(31): require_once('/var/www/html/w...')
+#5 /var/www/html/wp-admin/themes.php(10): require_once('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-08-02T04:58:15+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin.php(31): require_once('/var/www/html/w...')
+#5 /var/www/html/wp-admin/themes.php(10): require_once('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-08-02T04:58:18+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T04:58:18+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T04:58:28+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin.php(31): require_once('/var/www/html/w...')
+#5 /var/www/html/wp-admin/themes.php(10): require_once('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-08-02T04:58:33+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T04:58:43+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T04:59:19+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T04:59:43+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T04:59:43+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin.php(31): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:00:33+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:00:43+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:01:35+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:01:43+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:01:50+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:02:05+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:02:20+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:02:35+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:02:50+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:03:05+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:03:20+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:03:35+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:03:43+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:03:50+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:04:05+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:04:20+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:04:35+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:04:43+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:04:50+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:06:43+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:06:50+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:07:05+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:07:43+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:09:06+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:09:32+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:09:32+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:11:32+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:11:33+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:11:51+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:12:32+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:13:51+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:14:32+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:15:51+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:16:32+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:17:51+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:17:55+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:18:00+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin.php(31): require_once('/var/www/html/w...')
+#5 /var/www/html/wp-admin/plugins.php(10): require_once('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-08-02T05:18:06+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:18:21+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:18:37+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:18:56+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:19:37+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:19:54+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin.php(31): require_once('/var/www/html/w...')
+#5 /var/www/html/wp-admin/plugins.php(10): require_once('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-08-02T05:19:56+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:20:12+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:22:12+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:22:27+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:22:42+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:22:57+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:23:12+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:23:27+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:23:42+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:23:57+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:24:12+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:24:27+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:24:42+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:24:57+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:25:13+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:27:13+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:29:13+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:31:13+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:32:15+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:33:12+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-08-02T05:34:15+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:36:15+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:38:15+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:39:58+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:40:13+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:40:28+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:40:43+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:40:58+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:41:13+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:41:28+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:41:43+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:41:58+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:42:13+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:42:28+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:42:44+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:43:28+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:43:43+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:43:58+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:44:14+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:44:29+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:44:44+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:44:59+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:45:14+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:45:29+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:45:44+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:45:59+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:46:14+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:46:29+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:46:44+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:46:59+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:47:14+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:47:30+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:47:46+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-08-02T05:49:30+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:51:31+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:53:31+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:55:31+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:57:01+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:57:16+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:57:31+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:57:46+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:58:01+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:58:16+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:58:31+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:58:46+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:59:01+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:59:16+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:59:31+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T05:59:46+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:00:01+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:00:16+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:02:17+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:04:17+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:04:50+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:05:05+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:07:05+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:09:05+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:10:41+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:10:56+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:11:49+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:12:04+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:14:04+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:16:04+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:18:04+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:20:04+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:34:45+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:34:48+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin.php(31): require_once('/var/www/html/w...')
+#5 /var/www/html/wp-admin/themes.php(10): require_once('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-08-02T06:35:03+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin.php(31): require_once('/var/www/html/w...')
+#5 /var/www/html/wp-admin/themes.php(10): require_once('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-08-02T06:39:03+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:39:18+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:39:27+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin.php(31): require_once('/var/www/html/w...')
+#5 /var/www/html/wp-admin/themes.php(10): require_once('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-08-02T06:39:33+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:39:48+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:40:03+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:40:18+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:40:33+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:40:48+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:41:03+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:41:18+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:41:33+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:41:48+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:42:03+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:42:18+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:42:33+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:42:48+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:43:03+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:43:18+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:43:33+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:43:48+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:44:03+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:44:18+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:44:33+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:44:48+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:45:03+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:45:18+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:45:33+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:45:37+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin.php(31): require_once('/var/www/html/w...')
+#5 /var/www/html/wp-admin/index.php(10): require_once('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-08-02T06:45:38+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin.php(31): require_once('/var/www/html/w...')
+#5 /var/www/html/wp-admin/index.php(10): require_once('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-08-02T06:45:43+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin.php(31): require_once('/var/www/html/w...')
+#5 /var/www/html/wp-admin/index.php(10): require_once('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-08-02T06:45:48+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:46:00+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin.php(31): require_once('/var/www/html/w...')
+#5 /var/www/html/wp-admin/themes.php(10): require_once('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-08-02T06:46:03+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:46:09+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin.php(31): require_once('/var/www/html/w...')
+#5 /var/www/html/wp-admin/plugin-install.php(15): require_once('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-08-02T06:46:18+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:46:33+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:46:48+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:47:03+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:47:18+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:47:33+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:47:48+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:48:03+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:48:18+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:48:33+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:48:48+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/storefront/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/storefront/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:49:37+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/twentyseventeen/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/twentyseventeen/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-08-02T06:49:48+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/twentyseventeen/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/twentyseventeen/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:50:03+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/twentyseventeen/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/twentyseventeen/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:50:11+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/twentyseventeen/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/twentyseventeen/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin.php(31): require_once('/var/www/html/w...')
+#5 /var/www/html/wp-admin/themes.php(10): require_once('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-08-02T06:50:18+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/twentyseventeen/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/twentyseventeen/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:50:33+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/twentyseventeen/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/twentyseventeen/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:50:48+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/twentyseventeen/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/twentyseventeen/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:51:03+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/twentyseventeen/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/twentyseventeen/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:51:18+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/twentyseventeen/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/twentyseventeen/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:51:33+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/twentyseventeen/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/twentyseventeen/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:51:48+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/twentyseventeen/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/twentyseventeen/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:52:03+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/twentyseventeen/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/twentyseventeen/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:52:18+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/twentyseventeen/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/twentyseventeen/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:52:33+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/twentyseventeen/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/twentyseventeen/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:52:45+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/twentyseventeen/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/twentyseventeen/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin.php(31): require_once('/var/www/html/w...')
+#5 /var/www/html/wp-admin/themes.php(10): require_once('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-08-02T06:52:48+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/twentyseventeen/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/twentyseventeen/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:52:49+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/twentyseventeen/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/twentyseventeen/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin.php(31): require_once('/var/www/html/w...')
+#5 /var/www/html/wp-admin/themes.php(10): require_once('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-08-02T06:52:50+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/twentyseventeen/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/twentyseventeen/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin.php(31): require_once('/var/www/html/w...')
+#5 /var/www/html/wp-admin/themes.php(10): require_once('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-08-02T06:52:50+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/twentyseventeen/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/twentyseventeen/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin.php(31): require_once('/var/www/html/w...')
+#5 /var/www/html/wp-admin/themes.php(10): require_once('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-08-02T06:53:03+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/twentyseventeen/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/twentyseventeen/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:53:18+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/twentyseventeen/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/twentyseventeen/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:53:33+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/twentyseventeen/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/twentyseventeen/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:53:48+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/twentyseventeen/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/twentyseventeen/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:53:50+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/twentyseventeen/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/twentyseventeen/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin.php(31): require_once('/var/www/html/w...')
+#5 /var/www/html/wp-admin/themes.php(10): require_once('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-08-02T06:53:50+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/twentyseventeen/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/twentyseventeen/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin.php(31): require_once('/var/www/html/w...')
+#5 /var/www/html/wp-admin/themes.php(10): require_once('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-08-02T06:53:53+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/twentyseventeen/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/twentyseventeen/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-08-02T06:53:55+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/twentyseventeen/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/twentyseventeen/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin.php(31): require_once('/var/www/html/w...')
+#5 /var/www/html/wp-admin/themes.php(10): require_once('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-08-02T06:54:03+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/twentyseventeen/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/twentyseventeen/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:54:18+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/twentyseventeen/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/twentyseventeen/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:54:33+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/twentyseventeen/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/twentyseventeen/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:54:48+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/twentyseventeen/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/twentyseventeen/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:55:03+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/twentyseventeen/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/twentyseventeen/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:55:21+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/twentyseventeen/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/twentyseventeen/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:55:33+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/twentyseventeen/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/twentyseventeen/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:55:48+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/twentyseventeen/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/twentyseventeen/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:56:03+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/twentyseventeen/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/twentyseventeen/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:56:18+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/twentyseventeen/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/twentyseventeen/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:56:33+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/twentyseventeen/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/twentyseventeen/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:56:48+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/twentyseventeen/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/twentyseventeen/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:57:03+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/twentyseventeen/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/twentyseventeen/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:57:18+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/twentyseventeen/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/twentyseventeen/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:57:33+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/twentyseventeen/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/twentyseventeen/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:57:48+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/twentyseventeen/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/twentyseventeen/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:58:03+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/twentyseventeen/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/twentyseventeen/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:58:18+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/twentyseventeen/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/twentyseventeen/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-08-02T06:58:33+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/twentyseventeen/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/twentyseventeen/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+

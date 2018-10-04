@@ -1,0 +1,21 @@
+[31-Jul-2018 17:00:27 UTC] PHP Notice:  Undefined variable: response in /home/codingkloud/public_html/sns/sns.php on line 21
+[01-Aug-2018 07:00:18 UTC] PHP Fatal error:  Uncaught exception 'Aws\Sns\Exception\SnsException' with message 'Error executing "Publish" on "https://sns.us-west-2.amazonaws.com"; AWS HTTP error: Client error: `POST https://sns.us-west-2.amazonaws.com` resulted in a `403 Forbidden` response:
+<ErrorResponse xmlns="http://sns.amazonaws.com/doc/2010-03-31/">
+  <Error>
+    <Type>Sender</Type>
+    <Code>InvalidClie (truncated...)
+ InvalidClientTokenId (client): The security token included in the request is invalid. - <ErrorResponse xmlns="http://sns.amazonaws.com/doc/2010-03-31/">
+  <Error>
+    <Type>Sender</Type>
+    <Code>InvalidClientTokenId</Code>
+    <Message>The security token included in the request is invalid.</Message>
+  </Error>
+  <RequestId>9ad7e109-268b-5b57-8923-b2d27a4eb765</RequestId>
+</ErrorResponse>
+'
+
+GuzzleHttp\Exception\ClientException: Client error: `POST https://sns.us-west-2.amazonaws.com` resulted in a `403 Forbidden` response:
+<ErrorResponse xmlns="http://sns.amazonaws.com/doc/2010-03-31/">
+  <Error>
+    <Type>Sender</Type>
+    <Code> in /home/codingkloud/public_html/liordev/sns/aws/Aws/WrappedHttpHandler.php on line 191

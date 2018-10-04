@@ -1,0 +1,911 @@
+2018-06-29T00:00:56+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T00:04:02+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T00:14:21+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T00:15:26+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T00:34:18+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T00:55:29+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T00:57:26+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T02:09:25+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T02:13:32+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T03:27:12+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T04:11:28+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T04:11:33+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T04:29:25+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T04:39:32+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T04:56:07+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T04:56:08+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T05:31:29+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T05:38:06+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T06:16:01+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T06:28:51+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T06:46:23+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin.php(31): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-06-29T06:47:39+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T06:48:11+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T06:48:17+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T06:48:18+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T07:42:02+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T08:39:57+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T08:40:01+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T09:11:41+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T09:26:25+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T09:35:29+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T09:48:24+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T09:49:47+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T09:53:14+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T10:34:39+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T10:34:43+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T10:38:49+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T10:41:15+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T10:47:29+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T11:00:12+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T11:01:23+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin.php(31): require_once('/var/www/html/w...')
+#5 /var/www/html/wp-admin/index.php(10): require_once('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T11:01:28+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T11:01:33+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T11:01:36+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T11:01:39+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T11:02:03+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T11:02:35+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T11:38:42+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T11:43:52+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T11:48:27+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T13:01:23+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T13:30:41+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T13:30:42+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T13:43:45+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-admin/admin-ajax.php(22): require_once('/var/www/html/w...')
+#5 {main}
+  thrown
+
+2018-06-29T13:46:18+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T13:54:13+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T13:57:22+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T14:39:34+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T15:25:32+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T15:39:06+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T16:26:24+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T16:26:29+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T16:49:57+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T17:32:51+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T18:18:43+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T18:22:31+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T18:36:15+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T18:36:21+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T18:43:41+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T18:43:41+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T18:43:47+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T18:57:06+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T19:50:28+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T20:33:40+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T22:04:19+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T22:26:41+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T22:39:51+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T22:57:22+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T23:07:01+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T23:12:15+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T23:15:10+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T23:31:56+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+
+2018-06-29T23:43:31+00:00 CRITICAL Uncaught Error: Call to undefined function curl_init() in /var/www/html/wp-content/themes/dokan-theme-develop/functions.php:78
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-theme-develop/functions.php(110): file_get_contents_tcurl('http://www.kato...')
+#1 /var/www/html/wp-settings.php(426): include('/var/www/html/w...')
+#2 /var/www/html/wp-config.php(90): require_once('/var/www/html/w...')
+#3 /var/www/html/wp-load.php(37): require_once('/var/www/html/w...')
+#4 /var/www/html/wp-blog-header.php(13): require_once('/var/www/html/w...')
+#5 /var/www/html/index.php(17): require('/var/www/html/w...')
+#6 {main}
+  thrown
+

@@ -1,0 +1,83 @@
+2018-07-03T13:30:09+00:00 CRITICAL Uncaught Error: Call to a member function codingkart_customer_check_user_type() on null in /var/www/html/wp-content/themes/dokan-child-theme/classes/account/EditAddress.php:45
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): EditAddress->codingkart_woocommerce_edit_account_form('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/templates/myaccount/form-edit-account.php(65): do_action('woocommerce_edi...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(210): include('/var/www/html/w...')
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-my-account.php(156): wc_get_template('myaccount/form-...', Array)
+#6 /var/www/html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2947): WC_Shortcode_My_Account::edit_account()
+#7 /var/www/html/wp-includes/class-wp-ho
+
+2018-07-03T13:30:53+00:00 CRITICAL Uncaught Error: Call to a member function codingkart_customer_check_user_type() on null in /var/www/html/wp-content/themes/dokan-child-theme/classes/account/EditAddress.php:45
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): EditAddress->codingkart_woocommerce_edit_account_form('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/templates/myaccount/form-edit-account.php(65): do_action('woocommerce_edi...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(210): include('/var/www/html/w...')
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-my-account.php(156): wc_get_template('myaccount/form-...', Array)
+#6 /var/www/html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2947): WC_Shortcode_My_Account::edit_account()
+#7 /var/www/html/wp-includes/class-wp-ho
+
+2018-07-03T13:31:15+00:00 CRITICAL Uncaught Error: Call to a member function codingkart_customer_check_user_type() on null in /var/www/html/wp-content/themes/dokan-child-theme/classes/account/EditAddress.php:45
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(286): EditAddress->codingkart_woocommerce_edit_account_form('')
+#1 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/templates/myaccount/form-edit-account.php(65): do_action('woocommerce_edi...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(210): include('/var/www/html/w...')
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/shortcodes/class-wc-shortcode-my-account.php(156): wc_get_template('myaccount/form-...', Array)
+#6 /var/www/html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2947): WC_Shortcode_My_Account::edit_account()
+#7 /var/www/html/wp-includes/class-wp-ho
+
+2018-07-03T20:56:12+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-query.php:208
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-child-theme/classes/account/BaseAccount.php(47): WC_Query::get_current_endpoint()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): BaseAccount->misha_hook_endpoint('http://34.214.1...', 'wallet', 'wallet', 'http://34.214.1...')
+#2 /var/www/html/wp-includes/plugin.php(203): WP_Hook->apply_filters('http://34.214.1...', Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/wc-page-functions.php(115): apply_filters('woocommerce_get...', 'http://34.214.1...', 'wallet', 'wallet', 'http://34.214.1...')
+#4 /var/www/html/wp-content/themes/dokan-child-theme/dokan/global/header-menu.php(21): wc_get_endpoint_url('wallet', 'wallet', 'http://34.214.1...')
+#5 /var/www/html/wp-content/plugins/dokan-lite/includes/functions.php(842): include('/var/www/html/w...')
+#6 /var/www/html/wp-content/plugins/dokan-lite/includes/template-
+
+2018-07-03T20:56:35+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-query.php:208
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-child-theme/classes/account/BaseAccount.php(47): WC_Query::get_current_endpoint()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): BaseAccount->misha_hook_endpoint('http://34.214.1...', 'wallet', 'wallet', 'http://34.214.1...')
+#2 /var/www/html/wp-includes/plugin.php(203): WP_Hook->apply_filters('http://34.214.1...', Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/wc-page-functions.php(115): apply_filters('woocommerce_get...', 'http://34.214.1...', 'wallet', 'wallet', 'http://34.214.1...')
+#4 /var/www/html/wp-content/themes/dokan-child-theme/dokan/global/header-menu.php(21): wc_get_endpoint_url('wallet', 'wallet', 'http://34.214.1...')
+#5 /var/www/html/wp-content/plugins/dokan-lite/includes/functions.php(842): include('/var/www/html/w...')
+#6 /var/www/html/wp-content/plugins/dokan-lite/includes/template-
+
+2018-07-03T20:56:37+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-query.php:208
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-child-theme/classes/account/BaseAccount.php(47): WC_Query::get_current_endpoint()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): BaseAccount->misha_hook_endpoint('http://34.214.1...', 'wallet', 'wallet', 'http://34.214.1...')
+#2 /var/www/html/wp-includes/plugin.php(203): WP_Hook->apply_filters('http://34.214.1...', Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/wc-page-functions.php(115): apply_filters('woocommerce_get...', 'http://34.214.1...', 'wallet', 'wallet', 'http://34.214.1...')
+#4 /var/www/html/wp-content/themes/dokan-child-theme/dokan/global/header-menu.php(21): wc_get_endpoint_url('wallet', 'wallet', 'http://34.214.1...')
+#5 /var/www/html/wp-content/plugins/dokan-lite/includes/functions.php(842): include('/var/www/html/w...')
+#6 /var/www/html/wp-content/plugins/dokan-lite/includes/template-
+
+2018-07-03T20:56:38+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-query.php:208
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-child-theme/classes/account/BaseAccount.php(47): WC_Query::get_current_endpoint()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): BaseAccount->misha_hook_endpoint('http://34.214.1...', 'wallet', 'wallet', 'http://34.214.1...')
+#2 /var/www/html/wp-includes/plugin.php(203): WP_Hook->apply_filters('http://34.214.1...', Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/wc-page-functions.php(115): apply_filters('woocommerce_get...', 'http://34.214.1...', 'wallet', 'wallet', 'http://34.214.1...')
+#4 /var/www/html/wp-content/themes/dokan-child-theme/dokan/global/header-menu.php(21): wc_get_endpoint_url('wallet', 'wallet', 'http://34.214.1...')
+#5 /var/www/html/wp-content/plugins/dokan-lite/includes/functions.php(842): include('/var/www/html/w...')
+#6 /var/www/html/wp-content/plugins/dokan-lite/includes/template-
+
+2018-07-03T20:56:39+00:00 CRITICAL Uncaught Error: Using $this when not in object context in /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-query.php:208
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-child-theme/classes/account/BaseAccount.php(47): WC_Query::get_current_endpoint()
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): BaseAccount->misha_hook_endpoint('http://34.214.1...', 'wallet', 'wallet', 'http://34.214.1...')
+#2 /var/www/html/wp-includes/plugin.php(203): WP_Hook->apply_filters('http://34.214.1...', Array)
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/wc-page-functions.php(115): apply_filters('woocommerce_get...', 'http://34.214.1...', 'wallet', 'wallet', 'http://34.214.1...')
+#4 /var/www/html/wp-content/themes/dokan-child-theme/dokan/global/header-menu.php(21): wc_get_endpoint_url('wallet', 'wallet', 'http://34.214.1...')
+#5 /var/www/html/wp-content/plugins/dokan-lite/includes/functions.php(842): include('/var/www/html/w...')
+#6 /var/www/html/wp-content/plugins/dokan-lite/includes/template-
+

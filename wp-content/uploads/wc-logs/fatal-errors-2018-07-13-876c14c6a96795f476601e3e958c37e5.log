@@ -1,0 +1,88 @@
+2018-07-13T04:40:21+00:00 CRITICAL Uncaught Error: Call to undefined function utf8_encode() in /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/compatibility/mb-string-compatibility.php:17
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/vendor/dompdf/dompdf/src/Dompdf.php(428): mb_convert_encoding('<!DOCTYPE html>...', 'UTF-8', 'iso-8859-1')
+#1 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-pdf-maker.php(50): Dompdf\Dompdf->loadHtml('<!DOCTYPE html>...')
+#2 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/class-wcpdf-bulk-document.php(63): WPO\WC\PDF_Invoices\PDF_Maker->output()
+#3 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/class-wcpdf-bulk-document.php(99): WPO\WC\PDF_Invoices\Documents\Bulk_Document->get_pdf()
+#4 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-main.php(224): WPO\WC\PDF_Invoice
+
+2018-07-13T04:43:17+00:00 CRITICAL Uncaught Error: Call to undefined function utf8_encode() in /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/compatibility/mb-string-compatibility.php:17
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/vendor/dompdf/dompdf/src/Dompdf.php(428): mb_convert_encoding('<!DOCTYPE html>...', 'UTF-8', 'iso-8859-1')
+#1 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-pdf-maker.php(50): Dompdf\Dompdf->loadHtml('<!DOCTYPE html>...')
+#2 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/abstract-wcpdf-order-document.php(505): WPO\WC\PDF_Invoices\PDF_Maker->output()
+#3 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/abstract-wcpdf-order-document.php(540): WPO\WC\PDF_Invoices\Documents\Order_Document->get_pdf()
+#4 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-main.php(224): WPO\WC\
+
+2018-07-13T04:50:37+00:00 CRITICAL Uncaught Error: Call to undefined function utf8_encode() in /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/compatibility/mb-string-compatibility.php:17
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/vendor/dompdf/dompdf/src/Dompdf.php(428): mb_convert_encoding('<!DOCTYPE html>...', 'UTF-8', 'iso-8859-1')
+#1 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-pdf-maker.php(50): Dompdf\Dompdf->loadHtml('<!DOCTYPE html>...')
+#2 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/abstract-wcpdf-order-document.php(505): WPO\WC\PDF_Invoices\PDF_Maker->output()
+#3 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/abstract-wcpdf-order-document.php(540): WPO\WC\PDF_Invoices\Documents\Order_Document->get_pdf()
+#4 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-main.php(224): WPO\WC\
+
+2018-07-13T04:51:20+00:00 CRITICAL Uncaught Error: Call to undefined function utf8_encode() in /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/compatibility/mb-string-compatibility.php:17
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/vendor/dompdf/dompdf/src/Dompdf.php(428): mb_convert_encoding('<!DOCTYPE html>...', 'UTF-8', 'iso-8859-1')
+#1 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-pdf-maker.php(50): Dompdf\Dompdf->loadHtml('<!DOCTYPE html>...')
+#2 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/abstract-wcpdf-order-document.php(505): WPO\WC\PDF_Invoices\PDF_Maker->output()
+#3 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/abstract-wcpdf-order-document.php(540): WPO\WC\PDF_Invoices\Documents\Order_Document->get_pdf()
+#4 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-main.php(224): WPO\WC\
+
+2018-07-13T04:51:27+00:00 CRITICAL Uncaught Error: Call to undefined function utf8_encode() in /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/compatibility/mb-string-compatibility.php:17
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/vendor/dompdf/dompdf/src/Dompdf.php(428): mb_convert_encoding('<!DOCTYPE html>...', 'UTF-8', 'iso-8859-1')
+#1 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-pdf-maker.php(50): Dompdf\Dompdf->loadHtml('<!DOCTYPE html>...')
+#2 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/class-wcpdf-bulk-document.php(63): WPO\WC\PDF_Invoices\PDF_Maker->output()
+#3 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/class-wcpdf-bulk-document.php(99): WPO\WC\PDF_Invoices\Documents\Bulk_Document->get_pdf()
+#4 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-main.php(224): WPO\WC\PDF_Invoice
+
+2018-07-13T04:51:53+00:00 CRITICAL Uncaught Error: Call to undefined function utf8_encode() in /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/compatibility/mb-string-compatibility.php:17
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/vendor/dompdf/dompdf/src/Dompdf.php(428): mb_convert_encoding('<!DOCTYPE html>...', 'UTF-8', 'iso-8859-1')
+#1 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-pdf-maker.php(50): Dompdf\Dompdf->loadHtml('<!DOCTYPE html>...')
+#2 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/abstract-wcpdf-order-document.php(505): WPO\WC\PDF_Invoices\PDF_Maker->output()
+#3 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/abstract-wcpdf-order-document.php(540): WPO\WC\PDF_Invoices\Documents\Order_Document->get_pdf()
+#4 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-main.php(224): WPO\WC\
+
+2018-07-13T04:55:59+00:00 CRITICAL Uncaught Error: Call to undefined function utf8_encode() in /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/compatibility/mb-string-compatibility.php:17
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/vendor/dompdf/dompdf/src/Dompdf.php(428): mb_convert_encoding('<!DOCTYPE html>...', 'UTF-8', 'iso-8859-1')
+#1 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-pdf-maker.php(50): Dompdf\Dompdf->loadHtml('<!DOCTYPE html>...')
+#2 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/abstract-wcpdf-order-document.php(505): WPO\WC\PDF_Invoices\PDF_Maker->output()
+#3 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/abstract-wcpdf-order-document.php(540): WPO\WC\PDF_Invoices\Documents\Order_Document->get_pdf()
+#4 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-main.php(224): WPO\WC\
+
+2018-07-13T16:15:35+00:00 CRITICAL Uncaught Error: Call to undefined function utf8_encode() in /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/compatibility/mb-string-compatibility.php:17
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/vendor/dompdf/dompdf/src/Dompdf.php(428): mb_convert_encoding('<!DOCTYPE html>...', 'UTF-8', 'iso-8859-1')
+#1 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-pdf-maker.php(50): Dompdf\Dompdf->loadHtml('<!DOCTYPE html>...')
+#2 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/abstract-wcpdf-order-document.php(505): WPO\WC\PDF_Invoices\PDF_Maker->output()
+#3 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/abstract-wcpdf-order-document.php(540): WPO\WC\PDF_Invoices\Documents\Order_Document->get_pdf()
+#4 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-main.php(224): WPO\WC\
+
+2018-07-13T16:15:36+00:00 CRITICAL Uncaught Error: Call to undefined function utf8_encode() in /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/compatibility/mb-string-compatibility.php:17
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/vendor/dompdf/dompdf/src/Dompdf.php(428): mb_convert_encoding('<!DOCTYPE html>...', 'UTF-8', 'iso-8859-1')
+#1 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-pdf-maker.php(50): Dompdf\Dompdf->loadHtml('<!DOCTYPE html>...')
+#2 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/abstract-wcpdf-order-document.php(505): WPO\WC\PDF_Invoices\PDF_Maker->output()
+#3 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/abstract-wcpdf-order-document.php(540): WPO\WC\PDF_Invoices\Documents\Order_Document->get_pdf()
+#4 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-main.php(224): WPO\WC\
+
+2018-07-13T16:17:22+00:00 CRITICAL Uncaught Error: Call to undefined function utf8_encode() in /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/compatibility/mb-string-compatibility.php:17
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/vendor/dompdf/dompdf/src/Dompdf.php(428): mb_convert_encoding('<!DOCTYPE html>...', 'UTF-8', 'iso-8859-1')
+#1 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-pdf-maker.php(50): Dompdf\Dompdf->loadHtml('<!DOCTYPE html>...')
+#2 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/abstract-wcpdf-order-document.php(505): WPO\WC\PDF_Invoices\PDF_Maker->output()
+#3 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/abstract-wcpdf-order-document.php(540): WPO\WC\PDF_Invoices\Documents\Order_Document->get_pdf()
+#4 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-main.php(224): WPO\WC\
+
+2018-07-13T16:41:05+00:00 CRITICAL Uncaught Error: Call to undefined function utf8_encode() in /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/compatibility/mb-string-compatibility.php:17
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/vendor/dompdf/dompdf/src/Dompdf.php(428): mb_convert_encoding('<!DOCTYPE html>...', 'UTF-8', 'iso-8859-1')
+#1 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-pdf-maker.php(50): Dompdf\Dompdf->loadHtml('<!DOCTYPE html>...')
+#2 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/abstract-wcpdf-order-document.php(505): WPO\WC\PDF_Invoices\PDF_Maker->output()
+#3 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/abstract-wcpdf-order-document.php(540): WPO\WC\PDF_Invoices\Documents\Order_Document->get_pdf()
+#4 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-main.php(224): WPO\WC\
+

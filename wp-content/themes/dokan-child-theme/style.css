@@ -1,0 +1,16 @@
+/*
+Theme Name:    Dokan Child
+Theme URI:     http://www.xyzwebsite.com/gallery/theme-name
+Description:   give a brief description about your theme
+Author:        Name of the Author
+Author URI:    http://www.xyzwebsite.com
+Template:      dokan
+Version:       1.0.0
+*/
+
+.home .product-sliders li a img {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    margin: 0;
+    width: 300px;
+}

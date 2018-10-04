@@ -1,0 +1,67 @@
+2018-07-12T07:52:54+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /var/www/html/wp-content/plugins/woocommerce-wallet-system/includes/front/checkout/order-cancelled.php:16
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce-wallet-system/includes/wc-wallet-functions.php(115): require_once()
+#1 /var/www/html/wp-includes/class-wp-hook.php(288): wallet_order_cancelled(202)
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-order.php(356): do_action('woocommerce_ord...', 202, Object(WC_Order))
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-order.php(234): WC_Order->status_transition()
+#6 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-order.php(326): WC_Order->save()
+#7 /var/www/html/wp-content/themes/dokan-child-theme/classes/account/EditOrder.php(241): WC_Order->update_status('wc-cancelled')
+#8 /var/
+
+2018-07-12T07:55:38+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /var/www/html/wp-content/plugins/woocommerce-wallet-system/includes/front/checkout/order-cancelled.php:16
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce-wallet-system/includes/wc-wallet-functions.php(115): require_once()
+#1 /var/www/html/wp-includes/class-wp-hook.php(288): wallet_order_cancelled(202)
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-order.php(356): do_action('woocommerce_ord...', 202, Object(WC_Order))
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-order.php(234): WC_Order->status_transition()
+#6 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-order.php(326): WC_Order->save()
+#7 /var/www/html/wp-content/themes/dokan-child-theme/classes/account/EditOrder.php(241): WC_Order->update_status('wc-cancelled')
+#8 /var/
+
+2018-07-12T13:02:34+00:00 CRITICAL Uncaught Error: Call to undefined function utf8_encode() in /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/compatibility/mb-string-compatibility.php:17
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/vendor/dompdf/dompdf/src/Dompdf.php(428): mb_convert_encoding('<!DOCTYPE html>...', 'UTF-8', 'iso-8859-1')
+#1 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-pdf-maker.php(50): Dompdf\Dompdf->loadHtml('<!DOCTYPE html>...')
+#2 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/class-wcpdf-bulk-document.php(63): WPO\WC\PDF_Invoices\PDF_Maker->output()
+#3 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/class-wcpdf-bulk-document.php(99): WPO\WC\PDF_Invoices\Documents\Bulk_Document->get_pdf()
+#4 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-main.php(224): WPO\WC\PDF_Invoice
+
+2018-07-12T13:05:19+00:00 CRITICAL Uncaught Error: Call to undefined function utf8_encode() in /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/compatibility/mb-string-compatibility.php:17
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/vendor/dompdf/dompdf/src/Dompdf.php(428): mb_convert_encoding('<!DOCTYPE html>...', 'UTF-8', 'iso-8859-1')
+#1 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-pdf-maker.php(50): Dompdf\Dompdf->loadHtml('<!DOCTYPE html>...')
+#2 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/class-wcpdf-bulk-document.php(63): WPO\WC\PDF_Invoices\PDF_Maker->output()
+#3 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/class-wcpdf-bulk-document.php(99): WPO\WC\PDF_Invoices\Documents\Bulk_Document->get_pdf()
+#4 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-main.php(224): WPO\WC\PDF_Invoice
+
+2018-07-12T13:06:10+00:00 CRITICAL Uncaught Error: Call to undefined function utf8_encode() in /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/compatibility/mb-string-compatibility.php:17
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/vendor/dompdf/dompdf/src/Dompdf.php(428): mb_convert_encoding('<!DOCTYPE html>...', 'UTF-8', 'iso-8859-1')
+#1 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-pdf-maker.php(50): Dompdf\Dompdf->loadHtml('<!DOCTYPE html>...')
+#2 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/class-wcpdf-bulk-document.php(63): WPO\WC\PDF_Invoices\PDF_Maker->output()
+#3 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/class-wcpdf-bulk-document.php(99): WPO\WC\PDF_Invoices\Documents\Bulk_Document->get_pdf()
+#4 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-main.php(224): WPO\WC\PDF_Invoice
+
+2018-07-12T13:06:40+00:00 CRITICAL Uncaught Error: Call to undefined function utf8_encode() in /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/compatibility/mb-string-compatibility.php:17
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/vendor/dompdf/dompdf/src/Dompdf.php(428): mb_convert_encoding('<!DOCTYPE html>...', 'UTF-8', 'iso-8859-1')
+#1 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-pdf-maker.php(50): Dompdf\Dompdf->loadHtml('<!DOCTYPE html>...')
+#2 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/abstract-wcpdf-order-document.php(505): WPO\WC\PDF_Invoices\PDF_Maker->output()
+#3 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/abstract-wcpdf-order-document.php(540): WPO\WC\PDF_Invoices\Documents\Order_Document->get_pdf()
+#4 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-main.php(224): WPO\WC\
+
+2018-07-12T14:20:01+00:00 CRITICAL Uncaught Error: Call to a member function get_id() on null in /var/www/html/wp-content/plugins/woocommerce-wallet-system/includes/front/checkout/order-cancelled.php:16
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce-wallet-system/includes/wc-wallet-functions.php(115): require_once()
+#1 /var/www/html/wp-includes/class-wp-hook.php(288): wallet_order_cancelled(202)
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-order.php(356): do_action('woocommerce_ord...', 202, Object(WC_Order))
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-order.php(234): WC_Order->status_transition()
+#6 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-order.php(326): WC_Order->save()
+#7 /var/www/html/wp-content/plugins/woocommerce/includes/wc-order-functions.php(868): WC_Order->update_status('cancelled', 'Unpaid order 
+

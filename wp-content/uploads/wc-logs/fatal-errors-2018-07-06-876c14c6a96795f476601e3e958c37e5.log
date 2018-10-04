@@ -1,0 +1,10 @@
+2018-07-06T05:39:31+00:00 CRITICAL Uncaught Error: Call to undefined function utf8_encode() in /var/www/html/wp-content/themes/dokan-child-theme/classes/rest/BaseRest.php:38
+Stack trace:
+#0 /var/www/html/wp-content/themes/dokan-child-theme/classes/products/ProductCustom.php(47): BaseRest->codingkart_woocommerce_rest_get_api_response('http://34.214.1...', '33')
+#1 /var/www/html/wp-includes/class-wp-hook.php(286): ProductCustom->codingkart_woocommerce_get_product_json_data('')
+#2 /var/www/html/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#3 /var/www/html/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#4 /var/www/html/wp-admin/admin-ajax.php(99): do_action('wp_ajax_codingk...')
+#5 {main}
+  thrown
+

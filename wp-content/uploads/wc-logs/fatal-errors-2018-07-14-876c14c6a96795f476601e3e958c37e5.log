@@ -1,0 +1,8 @@
+2018-07-14T11:21:31+00:00 CRITICAL Uncaught Error: Call to undefined function utf8_encode() in /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/compatibility/mb-string-compatibility.php:17
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/vendor/dompdf/dompdf/src/Dompdf.php(428): mb_convert_encoding('<!DOCTYPE html>...', 'UTF-8', 'iso-8859-1')
+#1 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-pdf-maker.php(50): Dompdf\Dompdf->loadHtml('<!DOCTYPE html>...')
+#2 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/abstract-wcpdf-order-document.php(505): WPO\WC\PDF_Invoices\PDF_Maker->output()
+#3 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/documents/abstract-wcpdf-order-document.php(540): WPO\WC\PDF_Invoices\Documents\Order_Document->get_pdf()
+#4 /var/www/html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/includes/class-wcpdf-main.php(224): WPO\WC\
+

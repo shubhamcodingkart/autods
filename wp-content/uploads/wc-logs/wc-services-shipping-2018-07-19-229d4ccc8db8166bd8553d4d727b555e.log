@@ -1,0 +1,4 @@
+07-19-2018 @ 05:45:01 - Error. Unable to get shipping rate(s) for wc_services_usps instance id 1. (check_and_handle_response_error)
+07-19-2018 @ 05:45:01 - product_missing_weight Product ( ID: 36 ) did not include a weight. Shipping rates cannot be calculated. (check_and_handle_response_error)
+07-19-2018 @ 05:50:21 - Error. Unable to get shipping rate(s) for wc_services_usps instance id 1. (check_and_handle_response_error)
+07-19-2018 @ 05:50:21 - product_missing_weight Product ( ID: 36 ) did not include a weight. Shipping rates cannot be calculated. (check_and_handle_response_error)
