@@ -49,12 +49,12 @@ class BaseCart
                     $url        = $api_url.'api/ebay_api/user/'.$token.'/upload_item';
 
                     $make_call  = $this->BaseRest_obj->codingkart_rest_callAPI('POST',$url,$data);
-                    $result_arr = (array) json_decode($make_call);
-                    $result     = '<li>'.$result_arr['message'].'</li>';
+                    $make_call = str_replace(array('\n', '<p></p>'), '', $make_call);
+                    $result     = '<li>'.$make_call.'</li>';
                     $all_items_response[] = $result;
 
                     $succ_string = 'Successfully uploaded item';
-                    if( strpos( $result_arr['message'], $succ_string ) !== false) {
+                    if( strpos( $make_call, $succ_string ) !== false) {
                         $product_upload_count++;
                     }
 

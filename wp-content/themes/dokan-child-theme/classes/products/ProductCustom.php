@@ -94,6 +94,8 @@ class ProductCustom extends BaseProduct
         $url            = $api_url.'api/ebay_api/user/'.$token.'/upload_item';
         
         $make_call = $this->BaseRest_obj->codingkart_rest_callAPI('POST',$url,$data);
+
+        $make_call = str_replace(array('\n', '<p></p>'), '', $make_call);
         //$response = json_decode($make_call, true);
 
         $haystack = $make_call;
