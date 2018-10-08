@@ -94,18 +94,27 @@ class ProductCustom extends BaseProduct
         $url            = $api_url.'api/ebay_api/user/'.$token.'/upload_item';
         
         $make_call = $this->BaseRest_obj->codingkart_rest_callAPI('POST',$url,$data);
-
         $make_call = str_replace(array('\n', '<p></p>'), '', $make_call);
-        //$response = json_decode($make_call, true);
 
-        $haystack = $make_call;
-        $needle   = "Not Found";
-
+        $api_execute = json_decode($make_call, true);
+        if ($api_execute) {
+            $make_call = $api_execute['message'];
+            if (is_array($make_call)) {
+                $make_call = json_encode($api_execute['message']);
+            }else{
+                $make_call = $api_execute['message'];
+            }
+        }
+        
         // URL should be right
+        $haystack = $make_call;
+        $needle   = 'Successfully uploaded item';
         if( strpos( $haystack, $needle ) !== false) {
-            wp_send_json_error( 'Error: Invalid URL!' );
+            $result = array('url'=>$url, 'apiresponse'=>$make_call,'result'=>'success');
+            $result = json_encode($result);
+            return $result;
         }else{
-            $result = array($url, $make_call);
+            $result = array('url'=>$url, 'apiresponse'=>$make_call, 'result'=>'unsuccess');
             $result = json_encode($result);
             return $result;
         }

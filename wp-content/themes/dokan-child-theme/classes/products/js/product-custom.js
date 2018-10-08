@@ -22,32 +22,23 @@ jQuery(document).ready(function() {
             // icon change
             //jQuery('.item-bar #'+id).css("background-color", "#f05025");
 
-            JSON.stringify(response); //to string
-            var obj = JSON.parse(response[1]);
-            
-            var check_if_error = response.success; //to view you pop up
-            if (check_if_error == 0) {
+            var result = response.result;
+            var apiresponse = JSON.stringify(response.apiresponse);
+            var apiresponse = apiresponse.replace(/\\/g, '');
+
+            //show message
+            if (result == 'success') {
               jQuery('#'+id+' i').removeClass('fa-circle-o-notch');
               jQuery('#'+id+' i').removeClass('fa-spin');
-              jQuery('#'+id+' i').addClass('fa-close');
+              jQuery('#'+id+' i').addClass('fa-check');
 
-              jQuery.jsdvPopup({text:'Invalid API URL!'});
-            }
-
-            var str1 = JSON.stringify(obj.message);
-            var str2 = 'Successfully uploaded item';
-            if(str1.indexOf(str2) != -1){
-                  jQuery('#'+id+' i').removeClass('fa-circle-o-notch');
-                  jQuery('#'+id+' i').removeClass('fa-spin');
-                  jQuery('#'+id+' i').addClass('fa-check');
-
-                  jQuery.jsdvPopup({text:str1});
+              jQuery.jsdvPopup({text:apiresponse});
             }else{
               jQuery('#'+id+' i').removeClass('fa-circle-o-notch');
               jQuery('#'+id+' i').removeClass('fa-spin');
               jQuery('#'+id+' i').addClass('fa-close');
-
-              jQuery.jsdvPopup({text:str1});
+              
+              jQuery.jsdvPopup({text:apiresponse});
             }
           }
         });
